@@ -6,3 +6,5 @@ A HTML5 based todo list manager with facebook login, multiple lists, organize in
 
 This upload is pretty messy. It is more a working-folder dump. I will go over and clear and rename files etc.
 to make it more understandable.
+
+<IMG SRC="https://raw.github.com/yardimli/ToDoListJumzu/master/jumzu.png">
